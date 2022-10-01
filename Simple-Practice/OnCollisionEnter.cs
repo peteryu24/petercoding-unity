@@ -18,15 +18,6 @@ public class get_componet : MonoBehaviour
 
         }
     }
-    
-        
-
-   
-           
-
-    
-
-
 }
 
 
